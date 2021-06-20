@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kontakt@erykbębynek.pl**
 
-- ⚡ Fun fact **I started my my programming jurney at 2014 from C++**
+- ⚡ Fun fact **I started my my programming journey at 2014 from C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
