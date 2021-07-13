@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Expenses app](https://github.com/HiImRussel/control-expenses-app)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript**, **Angular**
 
 - 👨‍💻 All of my projects are available at <a href="https://erykbębynek.pl" target="blank">https://erykbębynek.pl/</a>
 
