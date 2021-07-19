@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eryk</h1>
 <h3 align="center">Junior Web Developer and Junior UX/UI designer</h3>
 
-- 🔭 I’m currently working on [Expenses app](https://github.com/HiImRussel/control-expenses-app)
+- 🔭 I’m currently working on [Expenses app](https://github.com/HiImRussel/control-expenses-app),[TwitchBOT-app](https://github.com/HiImRussel/twitchBOT-merged)
 
 - 🌱 I’m currently learning **TypeScript**, **Angular**
 
